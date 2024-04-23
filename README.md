@@ -10,11 +10,11 @@ The "FoodPlaza" has been practiced to override the prevalent problems in manual 
 
 The website is minimized as much as possible to avoid errors when entering data. It also gives an error message when entering invalid data. No formal knowledge is required for the user to use this system. Therefore, every test is easy to use. Online food order systems, as described above, can lead to error-free, safe, reliable and fast management systems. This can help the user focus on his other activities instead of focusing on record keeping. Therefore, it will help the organization to make better use of resources.
 
-<!-- Homepage:<br>
-![alt text](https://github.com/CosmiX-6/FoodPlaza/blob/main/Screenshots/foodplaza-admin-home-1.png "Home Preview")
+Homepage:<br>
+![alt text](https://github.com/imnitesh18/Food-Plaza/assets/71972708/33d2e0e6-b8e3-4e05-aff5-819a9a8002e8)
 ![alt text](https://github.com/CosmiX-6/FoodPlaza/blob/main/Screenshots/foodplaza-login.png "Login Preview")
 
---- -->
+---
 
 `<url>/admin` (Database Backend)<br>
 id = 'admin' | pass = 'admin'<br>
